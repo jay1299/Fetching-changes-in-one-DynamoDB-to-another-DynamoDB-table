@@ -10,7 +10,7 @@
                 "dynamodb:Scan",
                 "dynamodb:DescribeStream",
                 "dynamodb:ListStreams",
-                "dynamodb:GetRecords"
+                "dynamodb:GetRecords",
                 "dynamodb:PutItem"
             ],
             "Resource": [
